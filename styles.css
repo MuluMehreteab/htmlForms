@@ -1,0 +1,26 @@
+label {
+    font-weight: bold;
+  }
+  
+  /* Style for inputs */
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical; /* Only for textarea to allow vertical resize */
+  }
+  
+  
+  
+  
+  /* Style for form container */
+  .form-container {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+  }
